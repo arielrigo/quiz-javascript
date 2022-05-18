@@ -53,7 +53,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina apenas o [Vs
 #Abra seu terminal do VSCode usando ctrl + "
 
 # Clone o repositório
-git clone <>
+git clone <https://github.com/arielrigo/quiz-javascript.git>
 
 #Baixe a extensão "Live server clicando no canto superior esquerdo"
 
